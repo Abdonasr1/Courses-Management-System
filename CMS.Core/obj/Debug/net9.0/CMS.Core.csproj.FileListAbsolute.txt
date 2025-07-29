@@ -1,0 +1,12 @@
+D:\Courses Management System\CMS\CMS.Core\obj\Debug\net9.0\CMS.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses Management System\CMS\CMS.Core\obj\Debug\net9.0\CMS.Core.AssemblyInfoInputs.cache
+D:\Courses Management System\CMS\CMS.Core\obj\Debug\net9.0\CMS.Core.AssemblyInfo.cs
+D:\Courses Management System\CMS\CMS.Core\obj\Debug\net9.0\CMS.Core.csproj.CoreCompileInputs.cache
+D:\Courses Management System\CMS\CMS.Core\bin\Debug\net9.0\CMS.Core.deps.json
+D:\Courses Management System\CMS\CMS.Core\bin\Debug\net9.0\CMS.Core.dll
+D:\Courses Management System\CMS\CMS.Core\bin\Debug\net9.0\CMS.Core.pdb
+D:\Courses Management System\CMS\CMS.Core\obj\Debug\net9.0\CMS.Core.dll
+D:\Courses Management System\CMS\CMS.Core\obj\Debug\net9.0\refint\CMS.Core.dll
+D:\Courses Management System\CMS\CMS.Core\obj\Debug\net9.0\CMS.Core.pdb
+D:\Courses Management System\CMS\CMS.Core\obj\Debug\net9.0\ref\CMS.Core.dll
+D:\Courses Management System\CMS\CMS.Core\obj\Debug\net9.0\CMS.Core.sourcelink.json
